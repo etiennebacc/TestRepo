@@ -7,4 +7,5 @@ Testing first repo creation for basic commands
 4. Third the pull command is tested to extract new files (or modified files from the remote repository).
 5. Fourth the branch command on its forms is used to create a new branch separated from the main branch. 
 6. The new created branch is called NewBranch.This fifth step is created only in the NewBranch.
+7. With the sixth step the git merge is tested.
 
